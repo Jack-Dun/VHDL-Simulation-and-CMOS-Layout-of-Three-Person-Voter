@@ -13,3 +13,4 @@
 8. 用CMOS设计出合理且切实可行的逻辑电路；
 9. 进行版图绘制，并进行检测。
 # CMOS版图
+![](https://raw.githubusercontent.com/Jack-Dun/VHDL-Simulation-and-CMOS-Layout-of-Three-Person-Voting-Device/main/%E4%B8%89%E4%BA%BA%E8%A1%A8%E5%86%B3%E5%99%A8L-Edit%E7%89%88%E5%9B%BE%E9%A2%84%E8%A7%88.png)
